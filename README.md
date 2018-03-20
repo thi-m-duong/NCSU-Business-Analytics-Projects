@@ -1,2 +1,2 @@
-# NCSU-Data-Analytics-Projects
-A collection of all my junior and senior data analytics projects at North Carolina State University. 
+# NCSU-Business-Analytics-Projects
+A collection of all my team and individual projects in business analytics (honored session) class BUS 443H at North Carolina State University. 
